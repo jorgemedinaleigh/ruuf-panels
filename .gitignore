@@ -1,7 +1,3 @@
-# non relevant folders
-mid/
-junior/python
-
 # Python
 __pycache__/
 *.py[cod]
