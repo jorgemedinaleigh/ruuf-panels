@@ -58,5 +58,5 @@ Si completaste alguno de los ejercicios bonus, explica tu solución aquí:
 
 ## 🤔 Supuestos y Decisiones
 
-*[Si tuviste que tomar algún supuesto o decisión de diseño, explícalo aquí]*
+Asumí que los valores ingresados son siempre enteros, para evitar problemas de precisión y validaciones extra
 
